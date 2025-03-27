@@ -1,4 +1,5 @@
 footer {
+    font: 14px/150% var(--font-family);
     padding: 24px 0;
     display: flex;
     align-items: center;
