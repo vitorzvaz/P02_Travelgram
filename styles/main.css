@@ -2,8 +2,8 @@ main {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
+    padding: 24px 0px;
 }
-
 
 main img {
     width: 286px;
